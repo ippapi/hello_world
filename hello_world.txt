@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bon 
-=======
-hi
->>>>>>> 07a9807462d1e6497d8cafc3b641fd4afa1baecf
+ba 
